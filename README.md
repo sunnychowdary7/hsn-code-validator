@@ -14,9 +14,13 @@
    ```bash
    python assignment.py
 Sample Input and Output
+
+
 Sample Input:
 
 Enter HSN code(s) (comma-separated, or 'exit' to quit): 0101, 9999
+
+
 Sample Output:
 
 0101: Valid HSN Code - Live horses, asses, mules and hinnies
