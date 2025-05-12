@@ -23,11 +23,11 @@ This Python-based intelligent agent validates Harmonized System Nomenclature (HS
 
 ### 2. Install pandas library
 ```bash
-pip install pandas
+pip install pandas.
 
 
 
-### Steps to Run the Script
+## Steps to Run the Script
 
 1. **Open Terminal or PowerShell**:
    Navigate to the directory where `assignment.py` and `HSN_SAC.xlsx` are located.
