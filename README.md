@@ -16,15 +16,9 @@
 Sample Input and Output
 Sample Input:
 
-text
-Copy
-Edit
 Enter HSN code(s) (comma-separated, or 'exit' to quit): 0101, 9999
 Sample Output:
 
-text
-Copy
-Edit
 0101: Valid HSN Code - Live horses, asses, mules and hinnies
 9999: Code not found in the HSN master data.
 Troubleshooting
