@@ -31,6 +31,5 @@ If you encounter any issues such as errors related to pandas, try the following:
 Make sure the pandas library is properly installed by running:
 
 bash
-Copy
-Edit
+
 pip install pandas
