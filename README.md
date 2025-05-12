@@ -16,7 +16,7 @@ This Python-based intelligent agent validates Harmonized System Nomenclature (HS
 
 
 
-## 🧑‍💻 How to Run
+##  How to Run
 
 ### 1. Install Python (if not already installed)
 [Download Python](https://www.python.org/downloads/) and install it.
@@ -26,4 +26,14 @@ This Python-based intelligent agent validates Harmonized System Nomenclature (HS
 pip install pandas
 
 
-python assignment.py
+
+### Steps to Run the Script
+
+1. **Open Terminal or PowerShell**:
+   Navigate to the directory where `assignment.py` and `HSN_SAC.xlsx` are located.
+
+2. **Run the Script**:
+   In the terminal, run the following command:
+
+   ```bash
+   python assignment.py
